@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chatbot - Assam Coding and Vlogging</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2><i class="fas fa-robot"></i> AI Assistant</h2>
+            <div class="status">
+                <div class="status-indicator"></div>
+                <span>Online</span>
+            </div>
+        </div>
+
+        <div class="chat-body" id="chat-box">
+            <div class="welcome-message">
+                <p>Hello! I'm your AI Assistant. How can I help you today?</p>
+            </div>
+
+            <div class="message bot-message">
+                <div class="bot-avatar">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div>
+                    <div class="message-content">
+                        Hi there! I'm an AI Assistant trained to help with variety of tasks. You can ask me questions, get information, or request assistance with specific tasks.
+                    </div>
+
+                    <div class="message-time">Just Now</div>
+                    <div class="suggestions">
+                        <button class="suggestion-chip" onclick="suggestQuestion('What can you help me with?')">What can you help me with?</button>
+                        <button class="suggestion-chip" onclick="suggestQuestion('Explain AI')">Explain AI</button>
+                        <button class="suggestion-chip" onclick="suggestQuestion('Tell me a joke')">Tell me a joke</button>
+                        <button class="suggestion-chip" onclick="suggestQuestion('Help with email')">Help with email</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-footer">
+            <div class="action-buttons">
+                <button class="action-btn" title="Clear chat" onclick="clearChat()"><i class="fas fa-trash-alt"></i></button>
+            </div>
+    
+            <div class="input-box">
+                <input type="text" id="user-input" placeholder="Type your message here..." onkeypress="handleKeyPress(event)">
+                <button class="send-btn" onclick="sendMessage()"><i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

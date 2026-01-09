@@ -1,0 +1,313 @@
+{
+  "greetings": {
+    "hello": [
+      "Hello! How can I assist you today?",
+      "Hi there! Welcome back. How can I help?",
+      "Hello! It's great to see you. What can I do for you?"
+    ],
+    "hi": [
+      "Hi there! I'm your AI assistant. What would you like to know?",
+      "Hey! Nice to meet you. How can I help?",
+      "Hi! Ready to assist you with anything you need."
+    ],
+    "hey": [
+      "Hey! Nice to meet you. How can I help?",
+      "Hey there! What's on your mind today?",
+      "Hey! I'm here and ready to help."
+    ],
+    "good morning": [
+      "Good morning! Hope you're having a great start to your day. What can I do for you?",
+      "Morning! Ready to tackle the day together?",
+      "Good morning! The day is full of possibilities. How can I assist?"
+    ],
+    "good afternoon": [
+      "Good afternoon! How can I assist you?",
+      "Afternoon! How's your day going so far?",
+      "Good afternoon! What can I help you with?"
+    ],
+    "good evening": [
+      "Good evening! I'm here to help with whatever you need.",
+      "Evening! Winding down or still working? How can I assist?",
+      "Good evening! Hope you had a productive day. What do you need?"
+    ]
+  },
+  "farewells": {
+    "goodbye": [
+      "Goodbye! Have a great day. Don't hesitate to return if you need more assistance.",
+      "Take care! Looking forward to our next chat.",
+      "Goodbye! Stay safe and productive!"
+    ],
+    "bye": [
+      "Bye! It was nice chatting with you.",
+      "Bye for now! Come back anytime.",
+      "See you later! Have a wonderful day."
+    ],
+    "see you": [
+      "See you later! Feel free to come back anytime.",
+      "Looking forward to seeing you again!",
+      "See you soon! Don't be a stranger."
+    ],
+    "goodnight": [
+      "Goodnight! Sleep well and have sweet dreams.",
+      "Night night! Rest well and recharge.",
+      "Goodnight! Hope you have peaceful rest."
+    ]
+  },
+  "courtesy": {
+    "thank you": [
+      "You're welcome! Feel free to ask if you need anything else.",
+      "My pleasure! Always happy to help.",
+      "No problem at all! That's what I'm here for."
+    ],
+    "thanks": [
+      "My pleasure! Happy to help.",
+      "You're very welcome!",
+      "Anytime! Don't hesitate to ask for more help."
+    ],
+    "thank you so much": [
+      "You're very welcome! It's always a pleasure to assist.",
+      "The pleasure is all mine! Let me know if you need anything else.",
+      "Happy to help! Your appreciation means a lot."
+    ],
+    "appreciate it": [
+      "I'm glad I could help! Let me know if you need anything else.",
+      "You're welcome! I'm here whenever you need assistance.",
+      "My pleasure! It's what I'm designed to do."
+    ]
+  },
+  "about_ai": {
+    "what is artificial intelligence": [
+      "Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn. It encompasses various subfields like machine learning, natural language processing, and computer vision.",
+      "AI refers to computer systems designed to perform tasks that normally require human intelligence, such as visual perception, speech recognition, and decision-making.",
+      "At its core, AI is about creating systems that can think, learn, and adapt. It's revolutionizing how we interact with technology across all industries."
+    ],
+    "explain ai": [
+      "AI refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect.",
+      "AI is a broad field of computer science focused on creating smart machines capable of performing tasks that typically require human intelligence.",
+      "Artificial Intelligence is about building systems that can reason, learn, and act intelligently. From chatbots to self-driving cars, AI is everywhere!"
+    ],
+    "what is machine learning": [
+      "Machine learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing algorithms that can access data and use it to learn for themselves.",
+      "ML is AI's learning component - it's how computers find patterns in data and make predictions or decisions without specific instructions for every scenario.",
+      "Think of machine learning as teaching computers to learn from examples. Instead of programming every rule, we show them data and let them figure out patterns."
+    ],
+    "what is deep learning": [
+      "Deep learning is a subset of machine learning that uses neural networks with many layers (hence 'deep'). These neural networks attempt to simulate the behavior of the human brain to learn from large amounts of data.",
+      "Deep learning uses complex neural networks with multiple layers to process data in sophisticated ways, enabling breakthroughs in image recognition, natural language processing, and more.",
+      "It's called 'deep' because it uses many layers of neural networks. Each layer extracts different features from the data, building up to complex understanding."
+    ]
+  },
+  "capabilities": {
+    "what can you do": [
+      "I can help with a variety of tasks including answering questions, providing information, helping with writing, explaining concepts, solving problems, brainstorming ideas, and more!",
+      "My capabilities include answering questions, assisting with research, helping with writing tasks, explaining complex topics, solving problems, and providing creative ideas.",
+      "I'm designed to assist with learning, research, writing, problem-solving, brainstorming, and answering questions on a wide range of topics. What specifically do you need help with?"
+    ],
+    "what are your capabilities": [
+      "I can assist with research, writing, calculations, explanations, language translation, coding help, creative ideas, and general knowledge questions.",
+      "My skills include answering questions, helping with writing and research, explaining concepts, solving problems, generating ideas, and assisting with learning.",
+      "I'm equipped to help with academic queries, professional tasks, creative projects, technical questions, and general knowledge. The possibilities are quite broad!"
+    ],
+    "help me": [
+      "I'd be happy to help! Could you please specify what you need assistance with?",
+      "Absolutely! What specifically would you like help with?",
+      "Ready to assist! Please tell me what you need help with."
+    ],
+    "what can you help me with": [
+      "I can help with learning, work tasks, creative projects, problem-solving, planning, and answering questions on various topics.",
+      "You can ask me for help with research, writing, learning new concepts, solving problems, planning projects, or getting information on countless topics.",
+      "My assistance covers academic help, professional tasks, creative writing, technical questions, general knowledge, and much more!"
+    ]
+  },
+  "personal": {
+    "what is your name": [
+      "I'm an AI assistant created to help you with tasks and answer questions. You can call me Assistant!",
+      "I'm your AI assistant! Think of me as your digital helper for all sorts of tasks and questions.",
+      "You can call me Assistant! I'm an AI designed to help you with information, tasks, and learning."
+    ],
+    "who created you": [
+      "I was created by developers to be a helpful AI assistant for users like you!",
+      "I'm the product of many developers' work, designed to be a useful assistant for everyone.",
+      "I come from a team of developers who wanted to create a helpful AI assistant for people."
+    ],
+    "how old are you": [
+      "I don't have an age in the traditional sense - I exist as a program designed to assist you!",
+      "As an AI, I don't experience time like humans do. I'm just here to help whenever you need!",
+      "Age is a human concept! I exist to assist you whenever you need help."
+    ],
+    "where are you from": [
+      "I exist in the digital realm, ready to assist you from wherever you are!",
+      "I live in the cloud, which means I'm accessible from anywhere with an internet connection!",
+      "I'm from the world of code and data, but I'm here to help you in the real world!"
+    ]
+  },
+  "mood": {
+    "how are you": [
+      "I'm just a bunch of code, but I'm functioning perfectly! How can I help you today?",
+      "As an AI, I don't have feelings, but I'm always ready and eager to assist you!",
+      "I'm running smoothly and ready to help! What can I do for you?"
+    ],
+    "how's it going": [
+      "Everything's running smoothly on my end! What can I do for you?",
+      "All systems are go! Ready to assist with whatever you need.",
+      "Going great! I'm here and fully operational. How can I help?"
+    ],
+    "are you happy": [
+      "As an AI, I don't have feelings, but I'm always happy to help you!",
+      "I don't experience emotions, but helping you brings me (metaphorical) joy!",
+      "Happiness is a human emotion, but I'm definitely programmed to be helpful!"
+    ]
+  },
+  "jokes": {
+    "tell me a joke": [
+      "Why don't scientists trust atoms? Because they make up everything!",
+      "What do you call a fake noodle? An impasta!",
+      "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "Why don't eggs tell jokes? They'd crack each other up!",
+      "What do you call a bear with no teeth? A gummy bear!",
+      "Why can't you trust stairs? They're always up to something!",
+      "What do you call cheese that isn't yours? Nacho cheese!",
+      "Why did the math book look so sad? It had too many problems.",
+      "What do you call a sleeping bull? A bulldozer!",
+      "Why don't skeletons fight each other? They don't have the guts."
+    ],
+    "joke": [
+      "What do you call a fake noodle? An impasta!",
+      "Why don't scientists trust atoms? Because they make up everything!",
+      "What's orange and sounds like a parrot? A carrot!",
+      "Why did the bicycle fall over? It was two tired!",
+      "What do you call a fish wearing a bowtie? Sofishticated!",
+      "Why don't oysters donate to charity? Because they're shellfish!",
+      "What do you call a cow with no legs? Ground beef!",
+      "Why can't a leopard hide? Because he's always spotted!",
+      "What do you call a pile of cats? A meowntain!",
+      "Why did the tomato turn red? Because it saw the salad dressing!"
+    ],
+    "funny joke": [
+      "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "What do you call a bear with no teeth? A gummy bear!",
+      "Why don't eggs tell jokes? They'd crack each other up!",
+      "What do you get when you cross a snowman with a vampire? Frostbite!",
+      "Why don't skeletons fight each other? They don't have the guts.",
+      "What do you call a dinosaur that crashes his car? Tyrannosaurus Wrecks!",
+      "Why don't scientists trust atoms? Because they make up everything!",
+      "What do you call cheese that isn't yours? Nacho cheese!",
+      "Why did the cookie go to the doctor? Because it felt crummy!",
+      "What do you call a fake noodle? An impasta!"
+    ],
+    "make me laugh": [
+      "Why don't eggs tell jokes? They'd crack each other up!",
+      "What do you call a fake noodle? An impasta!",
+      "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "What do you call a bear with no teeth? A gummy bear!",
+      "Why can't you trust stairs? They're always up to something!",
+      "What do you call a sleeping bull? A bulldozer!",
+      "Why did the math book look so sad? It had too many problems.",
+      "What do you call a cow with no legs? Ground beef!",
+      "Why don't skeletons fight each other? They don't have the guts.",
+      "What do you get when you cross a snowman with a vampire? Frostbite!"
+    ]
+  },
+  "help": {
+    "help me write an email": [
+      "Sure! Here's a basic email template:\n\nSubject: [Your Subject]\n\nDear [Recipient Name],\n\n[Body of your email]\n\nBest regards,\n[Your Name]",
+      "Happy to help with email writing! A good structure is:\n\n1. Clear subject line\n2. Professional greeting\n3. Concise body\n4. Polite closing\n5. Your signature\n\nWhat kind of email are you writing?",
+      "Email writing help coming up! Remember:\n- Keep it clear and concise\n- Use proper formatting\n- Proofread before sending\n\nNeed help with a specific type of email?"
+    ],
+    "write a resume": [
+      "I can help with resume structure! Here's a basic format:\n\n1. Contact Information\n2. Professional Summary\n3. Work Experience\n4. Education\n5. Skills\n6. Certifications/Awards\n\nWhat specific help do you need?",
+      "Resume writing tips:\n- Use action verbs\n- Quantify achievements\n- Tailor to the job\n- Keep it to 1-2 pages\n- Use a clean, professional format\n\nWhat industry are you targeting?",
+      "For a strong resume:\n1. Start with a powerful summary\n2. Highlight relevant experience\n3. Include measurable results\n4. List key skills\n5. Add education & certifications\n\nNeed help with a specific section?"
+    ],
+    "help with coding": [
+      "I can assist with coding questions! Please specify the programming language and what you're trying to achieve.",
+      "Coding help is available! Tell me:\n1. What language\n2. What you're trying to do\n3. Any error messages\n4. What you've tried so far",
+      "Ready to help with coding! Whether it's debugging, learning concepts, or project help, I'm here. What specifically do you need?"
+    ],
+    "math help": [
+      "I can help with mathematical concepts and problem-solving. What specific math topic or problem do you need help with?",
+      "Math assistance available! I can help with:\n- Algebra\n- Calculus\n- Statistics\n- Geometry\n- Problem-solving strategies\n\nWhat do you need?",
+      "Ready for math help! Please share the specific problem or concept you're working on, and I'll do my best to assist."
+    ]
+  },
+  "time_date": {
+    "what time is it": [
+      "I can't access real-time information, but you can check your device's clock!",
+      "For the current time, please check your device. I don't have real-time clock access.",
+      "You'll need to check your phone or computer for the exact time. I don't track real-time information."
+    ],
+    "what day is it": [
+      "You can check your calendar for the current date!",
+      "For today's date, please check your calendar app. I don't track dates.",
+      "You'll need to check your device's calendar for the current day and date."
+    ],
+    "what is today": [
+      "Today is whatever day you're having! For the specific date, please check your calendar.",
+      "Every day is a good day to learn something new! For the calendar date, check your device.",
+      "Today is today! For the exact date, you'll need to check a calendar."
+    ]
+  },
+  "weather": {
+    "what's the weather": [
+      "I can't access real-time weather data, but you can check a weather website or app for accurate forecasts!",
+      "For current weather conditions, I recommend checking reliable weather services like Weather.com or your local news.",
+      "You'll need a weather app or website for accurate forecasts. I don't have real-time weather access."
+    ],
+    "is it raining": [
+      "For current weather conditions, I recommend checking a reliable weather service.",
+      "You'll need to check a weather app or look outside! I don't have real-time weather data.",
+      "I can't tell if it's raining right now, but weather apps can give you accurate local conditions."
+    ],
+    "weather forecast": [
+      "You'll need to check a weather service for accurate forecasts in your area.",
+      "For reliable weather forecasts, try services like AccuWeather, Weather.com, or your local news.",
+      "I recommend checking dedicated weather apps for accurate forecasts. They have up-to-date radar and prediction data."
+    ]
+  },
+  "tech_support": {
+    "my computer is slow": [
+      "Try these steps:\n1. Restart your computer\n2. Check for software updates\n3. Close unused programs\n4. Run a malware scan\n5. Clear temporary files",
+      "Computer running slow? Here are common fixes:\n- Restart your device\n- Check for updates\n- Close background apps\n- Free up disk space\n- Run antivirus scan\n- Consider adding more RAM",
+      "Speed issues? Try:\n1. Restart first (often helps!)\n2. Update OS and drivers\n3. Check startup programs\n4. Clean up disk\n5. Scan for malware\n6. Consider hardware upgrades"
+    ],
+    "internet not working": [
+      "Troubleshooting steps:\n1. Restart your router\n2. Check cable connections\n3. Restart your device\n4. Contact your ISP if problem persists",
+      "Internet issues? Try:\n1. Router restart (unplug 30 sec)\n2. Check all connections\n3. Device restart\n4. Test with another device\n5. Call ISP if still not working",
+      "Connectivity problems:\n- Restart router/modem\n- Check WiFi password\n- Move closer to router\n- Try Ethernet cable\n- Contact your service provider"
+    ],
+    "phone problems": [
+      "Try these general fixes:\n1. Restart your phone\n2. Check for software updates\n3. Clear cache for problematic apps\n4. Free up storage space",
+      "Phone issues? Common solutions:\n1. Force restart\n2. Update OS and apps\n3. Clear app cache/data\n4. Check storage space\n5. Backup and reset if needed",
+      "Mobile device troubleshooting:\n- Restart device\n- Check for updates\n- Clear cache\n- Free up space\n- Check battery health\n- Consider factory reset as last resort"
+    ]
+  },
+  "learning": {
+    "learn programming": [
+      "Great choice! Start with:\n1. Choose a language (Python is beginner-friendly)\n2. Learn basic syntax\n3. Practice with small projects\n4. Use online resources like freeCodeCamp or Codecademy",
+      "Learning to code? Recommended path:\n1. Python or JavaScript\n2. Online courses (Coursera, Udemy)\n3. Build small projects\n4. Join coding communities\n5. Practice daily",
+      "Programming journey:\n- Start with Python/JavaScript\n- Take structured courses\n- Code every day\n- Build portfolio projects\n- Contribute to open source\n- Never stop learning!"
+    ],
+    "how to study effectively": [
+      "Effective study tips:\n1. Create a study schedule\n2. Take regular breaks\n3. Use active recall\n4. Teach others what you learn\n5. Get enough sleep",
+      "Study smarter:\n- Pomodoro technique (25 min focus, 5 min break)\n- Spaced repetition\n- Practice testing\n- Interleaving topics\n- Good sleep hygiene",
+      "Better studying:\n1. Set specific goals\n2. Create distraction-free environment\n3. Use active learning methods\n4. Review regularly\n5. Take care of your health"
+    ],
+    "language learning tips": [
+      "Language learning strategies:\n1. Practice daily\n2. Use apps like Duolingo\n3. Watch shows in the target language\n4. Find a language partner\n5. Don't be afraid to make mistakes",
+      "Learn a new language:\n- Consistency is key (daily practice)\n- Immerse yourself (music, movies)\n- Speak from day one\n- Use spaced repetition\n- Join language exchange",
+      "Language acquisition:\n1. Start with basics (greetings, numbers)\n2. Practice listening and speaking\n3. Learn in context\n4. Use multiple resources\n5. Be patient and persistent"
+    ]
+  },
+  "default_responses": [
+    "That's an interesting question. I'm still learning, but I'll do my best to help!",
+    "I understand you're asking about this topic. Could you provide a bit more context?",
+    "Thanks for your question. I'm designed to assist with various topics. How else can I help?",
+    "I'm not entirely sure about that, but I can help with many other topics. Try asking me something else!",
+    "Interesting query! I'm constantly learning to provide better answers. Could you rephrase or ask something related?",
+    "I appreciate your question. While I don't have a specific answer for that, I'm here to help with many other things!",
+    "That's a thought-provoking question. Let me think about how best to assist you with that.",
+    "I'm processing your question. Could you elaborate a bit more so I can provide better assistance?",
+    "Thanks for reaching out! I'm here to help, though this specific topic might be outside my current expertise.",
+    "Good question! I'm designed to learn from interactions like this to improve my responses."
+  ]
+}
